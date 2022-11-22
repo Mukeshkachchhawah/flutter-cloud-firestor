@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125682924889",
+    "project_id": "flutter-cloud-firestor",
+    "storage_bucket": "flutter-cloud-firestor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125682924889:android:7e42f6c361dc3ce95de048",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cloud_firestor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125682924889-q78371qodninc069d05eclcg89n501fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfO_jFEbjyDDAd1RbwZJSLN6oDrU_V63Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125682924889-q78371qodninc069d05eclcg89n501fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
